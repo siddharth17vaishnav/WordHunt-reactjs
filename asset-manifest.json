@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WordHunt-reactjs/static/css/main.a617e044.chunk.css",
+    "main.js": "/WordHunt-reactjs/static/js/main.e80b4fad.chunk.js",
+    "main.js.map": "/WordHunt-reactjs/static/js/main.e80b4fad.chunk.js.map",
+    "runtime-main.js": "/WordHunt-reactjs/static/js/runtime-main.7987ba7b.js",
+    "runtime-main.js.map": "/WordHunt-reactjs/static/js/runtime-main.7987ba7b.js.map",
+    "static/js/2.0e787a6a.chunk.js": "/WordHunt-reactjs/static/js/2.0e787a6a.chunk.js",
+    "static/js/2.0e787a6a.chunk.js.map": "/WordHunt-reactjs/static/js/2.0e787a6a.chunk.js.map",
+    "static/js/3.6cf77b43.chunk.js": "/WordHunt-reactjs/static/js/3.6cf77b43.chunk.js",
+    "static/js/3.6cf77b43.chunk.js.map": "/WordHunt-reactjs/static/js/3.6cf77b43.chunk.js.map",
+    "index.html": "/WordHunt-reactjs/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/WordHunt-reactjs/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0e787a6a.chunk.js.LICENSE.txt": "/WordHunt-reactjs/static/js/2.0e787a6a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/WordHunt-reactjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7987ba7b.js",
+    "static/js/2.0e787a6a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e80b4fad.chunk.js"
+  ]
+}
